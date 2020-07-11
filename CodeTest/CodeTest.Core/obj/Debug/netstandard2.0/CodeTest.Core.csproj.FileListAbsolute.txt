@@ -1,0 +1,12 @@
+E:\COdeTest\CodeTest\CodeTest.Core\bin\Debug\netstandard2.0\CodeTest.Core.deps.json
+E:\COdeTest\CodeTest\CodeTest.Core\bin\Debug\netstandard2.0\CodeTest.Core.dll
+E:\COdeTest\CodeTest\CodeTest.Core\bin\Debug\netstandard2.0\CodeTest.Core.pdb
+E:\COdeTest\CodeTest\CodeTest.Core\obj\Debug\netstandard2.0\CodeTest.Core.csprojAssemblyReference.cache
+E:\COdeTest\CodeTest\CodeTest.Core\obj\Debug\netstandard2.0\CodeTest.Core.csproj.CoreCompileInputs.cache
+E:\COdeTest\CodeTest\CodeTest.Core\obj\Debug\netstandard2.0\CodeTest.Core.AssemblyInfoInputs.cache
+E:\COdeTest\CodeTest\CodeTest.Core\obj\Debug\netstandard2.0\CodeTest.Core.AssemblyInfo.cs
+E:\COdeTest\CodeTest\CodeTest.Core\obj\Debug\netstandard2.0\CodeTest.Core.dll
+E:\COdeTest\CodeTest\CodeTest.Core\obj\Debug\netstandard2.0\CodeTest.Core.pdb
+E:\COdeTest\CodeTest\CodeTest.Core\bin\Debug\netstandard2.0\CodeTest.Context.dll
+E:\COdeTest\CodeTest\CodeTest.Core\bin\Debug\netstandard2.0\CodeTest.Context.pdb
+E:\COdeTest\CodeTest\CodeTest.Core\obj\Debug\netstandard2.0\CodeTest.Core.csproj.CopyComplete

@@ -1,0 +1,4 @@
+1. I have used code first approach in dot net core for this application.
+
+2. so just update the connection string in appsettings.json file and run the project 
+your db will automatically created.

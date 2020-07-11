@@ -1,0 +1,16 @@
+E:\COdeTest\CodeTest\CodeTest.Service.Infrastructure\bin\Debug\netstandard2.0\CodeTest.Service.Infrastructure.deps.json
+E:\COdeTest\CodeTest\CodeTest.Service.Infrastructure\bin\Debug\netstandard2.0\CodeTest.Service.Infrastructure.dll
+E:\COdeTest\CodeTest\CodeTest.Service.Infrastructure\bin\Debug\netstandard2.0\CodeTest.Service.Infrastructure.pdb
+E:\COdeTest\CodeTest\CodeTest.Service.Infrastructure\obj\Debug\netstandard2.0\CodeTest.Service.Infrastructure.csproj.CoreCompileInputs.cache
+E:\COdeTest\CodeTest\CodeTest.Service.Infrastructure\obj\Debug\netstandard2.0\CodeTest.Service.Infrastructure.AssemblyInfoInputs.cache
+E:\COdeTest\CodeTest\CodeTest.Service.Infrastructure\obj\Debug\netstandard2.0\CodeTest.Service.Infrastructure.AssemblyInfo.cs
+E:\COdeTest\CodeTest\CodeTest.Service.Infrastructure\obj\Debug\netstandard2.0\CodeTest.Service.Infrastructure.dll
+E:\COdeTest\CodeTest\CodeTest.Service.Infrastructure\obj\Debug\netstandard2.0\CodeTest.Service.Infrastructure.pdb
+E:\COdeTest\CodeTest\CodeTest.Service.Infrastructure\bin\Debug\netstandard2.0\CodeTest.Context.dll
+E:\COdeTest\CodeTest\CodeTest.Service.Infrastructure\bin\Debug\netstandard2.0\CodeTest.Core.dll
+E:\COdeTest\CodeTest\CodeTest.Service.Infrastructure\bin\Debug\netstandard2.0\CodeTest.Service.Core.dll
+E:\COdeTest\CodeTest\CodeTest.Service.Infrastructure\bin\Debug\netstandard2.0\CodeTest.Core.pdb
+E:\COdeTest\CodeTest\CodeTest.Service.Infrastructure\bin\Debug\netstandard2.0\CodeTest.Service.Core.pdb
+E:\COdeTest\CodeTest\CodeTest.Service.Infrastructure\bin\Debug\netstandard2.0\CodeTest.Context.pdb
+E:\COdeTest\CodeTest\CodeTest.Service.Infrastructure\obj\Debug\netstandard2.0\CodeTest.Service.Infrastructure.csprojAssemblyReference.cache
+E:\COdeTest\CodeTest\CodeTest.Service.Infrastructure\obj\Debug\netstandard2.0\CodeTest.Service.Infrastructure.csproj.CopyComplete

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CodeTest.Core\CodeTest.Core.csproj" />
+    <ProjectReference Include="..\CodeTest.Service.Core\CodeTest.Service.Core.csproj" />
+  </ItemGroup>
+
+</Project>

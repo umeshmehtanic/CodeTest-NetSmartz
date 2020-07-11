@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qRpzuGaYeN8bgvKR6RvXLZKx9YKoc5XKDVpZburlDrxL4s1xudAHofOZIp6dz51ATFjQJIolyKqm9P1pLH7Qyw==",
+  "success": true,
+  "projectFilePath": "E:\\COdeTest\\CodeTest\\CodeTest.Product.Repositories\\CodeTest.Product.Repositories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MeetApp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\MeetApp\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+E:\COdeTest\CodeTest\CodeTest.Category.Repositories\bin\Debug\netstandard2.0\CodeTest.Category.Repositories.deps.json
+E:\COdeTest\CodeTest\CodeTest.Category.Repositories\bin\Debug\netstandard2.0\CodeTest.Category.Repositories.dll
+E:\COdeTest\CodeTest\CodeTest.Category.Repositories\bin\Debug\netstandard2.0\CodeTest.Category.Repositories.pdb
+E:\COdeTest\CodeTest\CodeTest.Category.Repositories\obj\Debug\netstandard2.0\CodeTest.Category.Repositories.csproj.CoreCompileInputs.cache
+E:\COdeTest\CodeTest\CodeTest.Category.Repositories\obj\Debug\netstandard2.0\CodeTest.Category.Repositories.AssemblyInfoInputs.cache
+E:\COdeTest\CodeTest\CodeTest.Category.Repositories\obj\Debug\netstandard2.0\CodeTest.Category.Repositories.AssemblyInfo.cs
+E:\COdeTest\CodeTest\CodeTest.Category.Repositories\obj\Debug\netstandard2.0\CodeTest.Category.Repositories.dll
+E:\COdeTest\CodeTest\CodeTest.Category.Repositories\obj\Debug\netstandard2.0\CodeTest.Category.Repositories.pdb

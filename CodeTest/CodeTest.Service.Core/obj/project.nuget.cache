@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "f1h53yCGcz05om55TuyHnj4LJlP/bjuNn3ClHGafmI8IzpxIiH6jvfkhdf3kUyaGFtp0KOteC1rMkOBR24a6dA==",
+  "success": true,
+  "projectFilePath": "E:\\COdeTest\\CodeTest\\CodeTest.Service.Core\\CodeTest.Service.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MeetApp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\MeetApp\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\MeetApp\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

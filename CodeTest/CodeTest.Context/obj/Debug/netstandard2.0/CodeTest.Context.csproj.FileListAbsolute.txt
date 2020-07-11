@@ -1,0 +1,9 @@
+E:\COdeTest\CodeTest\CodeTest.Context\obj\Debug\netstandard2.0\CodeTest.Context.csproj.CoreCompileInputs.cache
+E:\COdeTest\CodeTest\CodeTest.Context\obj\Debug\netstandard2.0\CodeTest.Context.AssemblyInfoInputs.cache
+E:\COdeTest\CodeTest\CodeTest.Context\obj\Debug\netstandard2.0\CodeTest.Context.AssemblyInfo.cs
+E:\COdeTest\CodeTest\CodeTest.Context\bin\Debug\netstandard2.0\CodeTest.Context.deps.json
+E:\COdeTest\CodeTest\CodeTest.Context\bin\Debug\netstandard2.0\CodeTest.Context.dll
+E:\COdeTest\CodeTest\CodeTest.Context\obj\Debug\netstandard2.0\CodeTest.Context.csprojAssemblyReference.cache
+E:\COdeTest\CodeTest\CodeTest.Context\bin\Debug\netstandard2.0\CodeTest.Context.pdb
+E:\COdeTest\CodeTest\CodeTest.Context\obj\Debug\netstandard2.0\CodeTest.Context.dll
+E:\COdeTest\CodeTest\CodeTest.Context\obj\Debug\netstandard2.0\CodeTest.Context.pdb
